@@ -43,7 +43,7 @@ Abaixo, segue algumas imagens para te mostrar como pensamos que o filtro poderia
 * Responsividade é muito importante
 * Assim que terminar, mande um email avisando e não faça mais commits depois disso
 * No nosso exemplo fizemos uma busca de hotéis, porém você pode usar o buscador para outros temas. Fique a vontade.
-* Os dados podem ser mockados ou pode ser utilizado uma API pública de sua preferência para exibir os dados que quiser, pois utilizando endpoints fica bem mais legal, não é mesmo?!
+* Os dados podem ser mockados ou pode ser utilizado uma API pública de sua preferência para exibir os dados que quiser, mas utilizando endpoints fica bem mais legal, não é mesmo?!
 * Criar o projeto do zero
 <br>
 <br>
