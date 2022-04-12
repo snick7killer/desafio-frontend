@@ -1,0 +1,16 @@
+<div class="body mt-5">
+
+    <div class="row d-flex justify-content-center" *ngIf="(movies$ | async).length == 0">
+        <div class="col-auto text-center">
+            <img src="assets/images/filePlaceholder.png" class="img-fluid h-50 imgSearch" alt="img files">
+        </div>
+
+        <div class="col-6" *ngIf="(movies$ | async).length > 0">
+            <h5 class="h5 mt-4 text-black-50">Resultados de busqueda</h5>
+        </div>
+    </div>
+
+    <app-ui-item [movie]="movie" *ngFor="let movie of movies$ | async"></app-ui-item>
+  
+    <app-modal></app-modal>
+</div>

@@ -1,0 +1,15 @@
+
+.buttonSearch {
+    height: 70px;
+    width: 100px;
+    background: #F2EA5D;
+    display: inline-block;
+    border: none;
+    position: relative;
+    left: -3px;
+    cursor: pointer;
+}
+
+.buttonSearch:hover {
+    background: #fcdb67;
+}

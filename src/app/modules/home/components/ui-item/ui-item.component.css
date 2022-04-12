@@ -1,0 +1,19 @@
+.btn-ver-mas {
+    background: #fcdb67;
+}
+
+h5 {
+    color: #203448;
+}
+
+.descripcion {
+    font-size: 14px;
+    font-weight: 500;
+    color: gray;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+    font-weight: 500;
+    color: #f78af9;
+}
